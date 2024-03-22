@@ -64,4 +64,4 @@ jobs:
         with:
           app-name: 'gmrdelhiairport'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_65DB38E00D4D40BCABF21176C6F9364A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_08ACD58B8A844497BFC30236E7BDCE9D }}
